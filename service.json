@@ -1,0 +1,113 @@
+[
+    {"service":"Digital Marketing",
+    "solutions":[{
+    "name":"Digital Marketing",
+    "description":"With our elite marketing team, WittyFine can help increase your bottom line with an SEO campaign that is specifically designed for your business. Start earning more qualified search traffic to your website today with our search engine optimization services."},
+    {"name":"SEO","description": "Enhance the visibility of your brand's website through our full-fledged optimization. We develop custom strategies that bring results through constant keyword targeting & optimization"},
+    {"name":"Link Building","description": "Link Building can help achieve incredible SEO results if done right. Our SEO experts can help your website get high-level backlinks through our full-fledged link building support."},
+    {"name":"Website SEO Audit","description": "A comprehensive SEO audit is the fastest, most efficient way to determine why your website isn't ranking as highly as it should be. WittyFine can help perform a full-fledged SEO audit for your website."},
+    {"name":"Analytics","description": "Know what your competitors are doing, research current market trends, look into what your target audience wants and design marketing strategies based on data. This is one of the best ways of market study without spending a lot for market testing."},
+    {"name":"Paid Advertising","description": "Paid Advertising is one of the best ways to target your most qualified audience. We use custom targeting to show your ads to your desired customers, and bring marketing results."},
+    {"name":"Email Marketing","description": "Reach out to potential clients or engage existing clients through Email Marketing. We optimize the email copy to bring more results and personalize it for each individual recipient."},
+    {"name":"Lead Generation","description": "Marketing is all about reaching out to potential prospects; we can help you to get a list of potential prospects. We use industry-specific targeting to ensure the best marketing results."},
+    {"name":"YouTube Marketing","description": "Build brand awareness, attract leads, and generate sales through the power of YouTube. We can help you create video content that drives results, and convert them through paid marketing."}]
+    }
+    ,{   "service":"Design",
+        "solutions": [
+          {
+            "name": "Web Design",
+            "description": "WittyFine is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals."
+          },
+          {
+            "name": "UI/UX Design",
+            "description": "Increase your user interactions and drive sales growth with striking designs developed by highly accomplished UI/UX Design Company."
+          },
+          {
+            "name": "WordPress Theme Customization",
+            "description": "Choose one of the millions of free and premium WordPress themes, and our experts can customize your website according to your preference and requirements."
+          },
+          {
+            "name": "WordPress Theme Development",
+            "description": "Craft elegant and value-adding themes that cater to the diverse needs of a global clientele with custom WordPress Theme Development."
+          },
+          {
+            "name": "Landing Page Design",
+            "description": "Get exceptional Landing Page Designs that maximize the impact of your marketing by boosting your lead quality, increasing your sales, and enhancing brand image!"
+          },
+          {
+            "name": "Cloud And Cyber Security",
+            "description": "Connect seamlessly, compute rapidly, store securely, and scale effortlessly with cloud based APIs and create advanced enterprise cloud solutions."
+          },
+          {
+            "name": "Graphics Design",
+            "description": "Custom graphics designs can enhance the brand image of your business; our expert designers can design modern and clean illustrations that meet your requirements and look great."
+          },
+          {
+            "name": "Animation & Promo",
+            "description": "Need a Promo Video or Animation for your brand? The creative designers at WittyFine can design extensive animation and promotional videos that look awesome!"
+          },
+          {
+            "name": "Motion Graphic Design",
+            "description": "Let's bring illustrations to life with custom Motion Graphics. We can help design intricate motion graphics video or animation best used for Promo Video, Website, or more!"
+          },
+          {
+            "name": "Video Editing",
+            "description": "You can rely on us for all your video editing and retouching needs. We have a dedicated team of video editing experts capable of performing fantastic edited videos!"
+          }
+        ]
+      },
+      {   "service":"Web development",
+        "solutions": [
+          {
+            "name": "Web Development",
+            "description": "Unleash intelligence with our expertise to deliver custom web solutions. Entice your audiences by shaping your ideas with futuristic web development services and take business to heightst"
+          },
+          {
+            "name": "Front-End Design & Development",
+            "description": "Give your users the very best in visual experiences across devices. Top class front-end services to create custom web and mobile applications to deliver pixel perfect, stunning user experience"
+          },
+          {
+            "name": "API Development",
+            "description": "Deliver incredible user experience that adds an edge to your business with our off-the-shelf and futuristic full-cycle custom API development services."
+          },
+          {
+            "name": "WordPress Theme Development",
+            "description": "Craft elegant and value-adding themes that cater to the diverse needs of a global clientele with custom WordPress Theme Development."
+          },
+          {
+            "name": "Android & iOS App Development",
+            "description": "Feature-rich mobile applications to accelerate your business. Delivering superior mobile app development services to help global brands design and build innovative mobile app."
+          },
+          {
+            "name": "Cloud And Cyber Security",
+            "description": "Connect seamlessly, compute rapidly, store securely, and scale effortlessly with cloud based APIs and create advanced enterprise cloud solutions."
+          },
+          {
+            "name": "E-commerce Store Development",
+            "description": "Bring in an array of versatile features to set up an online store rapidly and successfully with Ecommerce Store development services"
+          }
+        ]
+      },
+     {
+        "service":"Content Writing",
+        "solutions":[
+               {
+                "name":"Content writing", 
+                  "description": "We don't write contents just for the sake of writing them - we make sure that you're getting SEO results while connecting to your audience by delivering content that they need."
+                },
+                { "name":"Technical Content Writing",
+                  "description": "With deep research, our content team can write exclusive technical content on any industry-specific topic. We follow an agile editing phase to ensure our content is accurate."
+                },
+                  { "name":"Website Content",
+                  "description": "The content in your website should portray all necessary information without looking too messy. We can write powerful content with strategic keyword insertion that powers SEO."
+                },
+                {"name":"Ghost Writing",
+                  "description": "If you want to use a writeup as your own, our team can write an original ghostwriting copy that you can use. Best for books, research papers, and documentation."
+                },
+                {"name":"Product Description",
+                  "description": "Do you have an eCommerce store that has products that need description? Our writers can write highly effective product descriptions that are designed to sell and are SEO optimized."
+                }
+        ]
+     }
+      
+]
