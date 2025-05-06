@@ -1,0 +1,15 @@
+
+.app-footer-about{
+    width: 100%;
+}
+@media (min-width: 768px) { 
+    .app-footer-about{
+        width:350px;
+    }
+}
+.app-certificate_size{
+    width: 150px;
+    /* height: 90px; */
+    /* margin: 0 10px; */
+    /* aspect-ratio: auto; */
+}

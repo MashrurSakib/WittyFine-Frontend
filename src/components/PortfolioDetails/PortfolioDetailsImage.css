@@ -1,0 +1,7 @@
+.portfolio-image{
+    width: 450px;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+   
+}

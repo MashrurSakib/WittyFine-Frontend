@@ -1,0 +1,48 @@
+/* mobile reponsive */
+.app-testimonial-mobile-responsive{
+display:block;
+margin: auto;
+}
+@media (min-width: 768px) { 
+    .app-testimonial-mobile-responsive{
+      display:none;
+      margin: auto;
+}
+}
+/* DESKTOP reponsive */
+.app-testimonial-DESKTOP-responsive{
+display:none;
+}
+@media (min-width: 768px) { 
+    .app-testimonial-DESKTOP-responsive{
+      display:block;
+}
+}
+.app-testimonial_card{
+    width: 90vw;
+    height: 550px;
+    padding: 20px;
+    margin: auto;
+    /* margin: 30px; */
+}
+@media (min-width: 768px) { 
+    .app-testimonial_card{
+        width: 400px;
+        height: 500px;
+        padding: 30px;
+        margin: 30px;
+    }
+}
+.app-testimonial_card-review{
+    height: 65%;
+}
+.app-testimonial_card-reviewer{
+    height: 35%;
+    align-items: flex-end;
+}
+
+
+.app-testimonial_card-avatar{
+    width: 50px;
+    aspect-ratio: 1/1;
+}
